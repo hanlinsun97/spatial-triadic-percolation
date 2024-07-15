@@ -11,7 +11,7 @@ Link to the paper: https://rdcu.be/c7oBL](https://doi.org/10.1093/pnasnexus/pgae
 - `spatial.jl`: The codes include all the functions used for producing orbit diagrams and time series of spatial patterns from Monte Carlo simulation.
 
 Python codes:
-- `poisson_simulation_theory.py`: Examples of triadic percolation on Poisson structural networks with both theoretical and simulation results. implemented in Python.
+- `xxx.py`: xxxx
 
 
 
